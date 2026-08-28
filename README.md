@@ -110,3 +110,9 @@ The project explores the use of data-based/AI-assisted approaches to identify ch
         ▼
  Health Status /
  Risk Assessment
+
+
+⚠️ Disclaimer
+
+This project is an academic prototype developed for learning, demonstration and innovation purposes.
+The health-related calculations and risk indications produced by the prototype should not be considered a medical diagnosis or a substitute for professional healthcare assessment.
